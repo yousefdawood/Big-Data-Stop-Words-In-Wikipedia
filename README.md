@@ -3,3 +3,5 @@ A map reduce program to get the percentage of stop words in wikipedia articles s
 
 A mapper and reducer python scripts were used to count stop words.
 
+Download and run docker image https://hub.docker.com/r/bigdatateam/yarn-notebook/
+
